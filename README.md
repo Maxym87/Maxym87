@@ -19,9 +19,9 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B1-0052cc?style=flat-square&logo=google&logoColor=white)
-![German](https://img.shields.io/badge/German-B1-ffce00?style=flat-square&logo=google&logoColor=black)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-0057b7?style=flat-square&logo=google&logoColor=ffd700)
+![English](https://img.shields.io/badge/English-B1-0052cc?style=flat-square)
+![German](https://img.shields.io/badge/German-B1-ffce00?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-0057b7?style=flat-square)
 
 
 📫 How to reach me:  
