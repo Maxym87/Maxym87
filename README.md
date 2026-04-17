@@ -6,16 +6,42 @@ Junior Fullstack developer with experience in JavaScript, TypeScript, React, Nex
 
 🧰 Tech Stack  
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="45" height="45" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin-right:10px;"/>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/><br/>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/><br/>
+      TypeScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/><br/>
+      React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/><br/>
+      Next.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/><br/>
+      Node.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br/>
+      MongoDB
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45"/><br/>
+      SASS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/><br/>
+      Git
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -30,9 +56,9 @@ Junior Fullstack developer with experience in JavaScript, TypeScript, React, Nex
 🗣️ Languages  
 
 <div>
-  <img src="https://img.shields.io/badge/English-B1-0052cc?style=flat-square&height=20" alt="English" style="margin-right:8px;"/>
-  <img src="https://img.shields.io/badge/German-B1-000000?style=flat-square&colorA=000000&colorB=ff0000&logoColor=ffce00&height=20" alt="German" style="margin-right:8px;"/>
-  <img src="https://img.shields.io/badge/Ukrainian-Native-0057b7?style=flat-square&height=20" alt="Ukrainian"/>
+  <img src="https://img.shields.io/badge/English-B1-0052cc?style=flat-square&height=20"/>
+  <img src="https://img.shields.io/badge/German-B1-000000?style=flat-square&colorA=000000&colorB=ff0000&logoColor=ffce00&height=20"/>
+  <img src="https://img.shields.io/badge/Ukrainian-Native-0057b7?style=flat-square&height=20"/>
 </div>
 
 ---
